@@ -1,2 +1,3 @@
 # gitflow-kokeilu
-Kokeilua gitflown kanssa
+## Kokeilua gitflown kanssa
+* muutos suoraan masteriin - minä läppärillä
