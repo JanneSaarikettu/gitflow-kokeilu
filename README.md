@@ -8,4 +8,8 @@
 * 1. muutos develop -haaraan 
   * git checkout develop
   * muutoksia 
-  * git commit -am "1. muutos develop -haaraan" --dry-run --verbose
+  * git commit -am "1. muutos develop -haaraan"
+* 2. muutos develop -haaraan 
+  * muutoksia 
+  * git commit -am "2. muutos develop -haaraan"
+
