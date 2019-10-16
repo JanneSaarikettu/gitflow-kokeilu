@@ -12,4 +12,4 @@
 * 2. muutos develop -haaraan 
   * muutoksia 
   * git commit -am "2. muutos develop -haaraan"
-
+Joo
