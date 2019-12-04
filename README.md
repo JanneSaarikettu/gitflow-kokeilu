@@ -14,3 +14,7 @@
   * git commit -am "2. muutos develop -haaraan"
 Joo
 stashattava muutos
+Stash kokeilu eri haaraan alkaa ja siihen liittyy
+- Muutettu tiedosto (tämä)
+- Lisätty tiedosto (NID553.txt)
+- Hyppy: develop -> feature_base -> feature
