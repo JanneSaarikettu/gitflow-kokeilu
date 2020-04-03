@@ -1,6 +1,7 @@
 
 C:\Users\janne.saarikettu\source\repos\KoodiKokeiluja\gitflow-kokeilu>git log --oneline
-a4f6d81 (HEAD -> feature) Tama on commit kommentin paaotsikko - ja tassa kerron 2. rivilla, ilman tyhjaa valirivia, vahan lisaa
+7ecdc1b (HEAD -> feature) Tama on commit kommentin paaotsikko
+a4f6d81 Tama on commit kommentin paaotsikko - ja tassa kerron 2. rivilla, ilman tyhjaa valirivia, vahan lisaa
 aa05772 (origin/feature)  Y lisatty toiseen tiedostoon
 a550bdb x lisatty toiseen tiedostoon
 38eb4b9 Added a conf file NID553.txt
