@@ -6,3 +6,8 @@ aa05772 (origin/feature)  Y lisatty toiseen tiedostoon
 a550bdb x lisatty toiseen tiedostoon
 38eb4b9 Added a conf file NID553.txt
 
+
+
+
+
+jou 
