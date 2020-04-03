@@ -3,3 +3,5 @@ toinen-tiedosto
 x
 
 Y
+
+Dummy muutos monirivikommentin testaamiseksi
