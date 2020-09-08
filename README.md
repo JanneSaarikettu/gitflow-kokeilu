@@ -13,3 +13,4 @@
   * muutoksia 
   * git commit -am "2. muutos develop -haaraan"
 Joo
+stashattava muutos
